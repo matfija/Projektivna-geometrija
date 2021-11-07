@@ -8,6 +8,8 @@ Repozitorijum sa domaćim zadacima na izbornom predmetu Primena projektivne geom
 * implementacija i animacija kretanja (izometrija) prostora,
 * rekonstrukcija prostornih koordinata objekta iz dve slike.
 
+Rad je u proširenoj verziji predstavljen na [X simpozijumu „Matematika i primene“](https://alas.matf.bg.ac.rs/~konferencija/2019/), u okviru sekcije posvećene naučnoistraživačkom i stručnom radu studenata. Moguće je pronaći ga u [programu](https://alas.matf.bg.ac.rs/~konferencija/Program2019.pdf), kao i u [knjizi apstrakata](https://alas.matf.bg.ac.rs/~konferencija/KNJIGA_APSTRAKATA_2019.pdf).
+
 ## Detalji i podešavanje :memo:
 Svi programi su napisani u jeziku Python (tada najsvežija verzija 3.7.5), na operativnom sistemu Windows, uz upotrebu zvaničnog [IDLE](https://docs.python.org/3/library/idle.html)-a kao integrisanog razvojnog okruženja, ali, usled fleksibilnosti samog Pythona, rade i na drugim operativnim sistemima, kao što su Ubuntu i druge distribucije Linuxa.
 
